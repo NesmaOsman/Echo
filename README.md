@@ -65,7 +65,8 @@ Here are some key screens from Echo, showcasing the design and functionality of 
 🖼️ Welcome Screen
 
 A clean and friendly landing page designed to introduce users to Echo’s mission.
-![image](https://github.com/user-attachments/assets/a6f49585-b826-44b9-a4bb-47c29a0f76e9)
+[View Image](https://github.com/user-attachments/assets/a6f49585-b826-44b9-a4bb-47c29a0f76e9)
+
 
 🏠 Home Screen – Layout 1
 
