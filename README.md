@@ -30,7 +30,7 @@ Echo is an AI-powered mobile application built using **Flutter** that aims to **
 The AI component uses a **trained machine learning model** to detect toxic or harassing text. The dataset and model were developed as part of a **Final Year Research Project (FOI term)**.
 
 > **Note:** The ML training code and dataset are located in a separate repository for modularity and clarity.  
-🔗 [AI Model Repo](https://github.com/NesmaOsman/echo-ai) *(or you can upload it and paste the link here)*
+🔗 [AI Model Repo](https://github.com/NesmaOsman/echo-ai) 
 
 ---
 
