@@ -58,3 +58,35 @@ To run the app locally:
 ```bash
 flutter pub get
 flutter run
+
+📸 App Screenshots
+
+Here are some key screens from Echo, showcasing the design and functionality of the application:
+🖼️ Welcome Screen
+
+A clean and friendly landing page designed to introduce users to Echo’s mission.
+![image](https://github.com/user-attachments/assets/a6f49585-b826-44b9-a4bb-47c29a0f76e9)
+
+🏠 Home Screen – Layout 1
+
+Main dashboard showing quick access to core features.
+![image](https://github.com/user-attachments/assets/2439d4b1-7c4d-4fdb-b1c5-82d6318bd550)
+
+
+🏠 Home Screen – Layout 2
+
+An alternative home layout with educational highlights and quick links.
+![image](https://github.com/user-attachments/assets/fe66cbbf-daac-4060-b7b9-f12f3af6f53c)
+
+
+💬 Chatting Page
+
+Real-time chatbot interface for harassment detection and mental health guidance.
+![image](https://github.com/user-attachments/assets/6ac2baae-5eef-44a2-a846-d662fc2ccb7d)
+
+
+⚙️ Settings Screen
+
+User-customizable options including notifications, themes, and support resources.
+![image](https://github.com/user-attachments/assets/bac765f2-da15-4b38-b766-8ae17020b5b7)
+
